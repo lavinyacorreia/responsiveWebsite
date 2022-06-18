@@ -7,6 +7,7 @@
 }
 .navbar-style{
     box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
 }
 .logo{
     height: 48px;
@@ -15,4 +16,7 @@
 }
 .icon-bar{
     background: darkorange;
+}
+li a{
+    color: black;
 }

@@ -44,3 +44,20 @@ li a{
     font-size: 17px;
     background-color: rgba(255, 127, 80, 0.089);
 }
+.description{
+    color: gray;
+    text-align: center;
+}
+.money-green{
+    padding-top: 100px;
+    text-align: center;
+    color: rgb(53, 181, 30);
+    font-size: 50px;
+}
+
+.separete-text{
+    display: flex; 
+    font-size: 20px;
+    justify-content: space-around;
+    margin: 20px 10px;
+}

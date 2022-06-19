@@ -38,3 +38,9 @@ li a{
     background-color: rgb(250, 227, 218);
     cursor: pointer;
 }
+
+#body-text{
+    padding: 10px 10px 10px 10px;
+    font-size: 17px;
+    background-color: rgba(255, 127, 80, 0.089);
+}
